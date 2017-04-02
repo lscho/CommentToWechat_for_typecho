@@ -24,4 +24,4 @@
 
   [1]: http://sc.ftqq.com/3.version
   [2]: https://github.com/lscho/CommentToWechat_for_typecho/archive/master.zip
-  [3]: https://lscho.com/usr/uploads/2017/03/2176765394.png
+  [3]: https://static.lscho.com/usr/uploads/2017/03/2176765394.png
